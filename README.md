@@ -11,3 +11,5 @@ https://www.npmjs.com/get-npm
 
 npm install --global expo-cli
 
+npm install --global vue-native-cli
+
